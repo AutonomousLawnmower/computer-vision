@@ -21,7 +21,7 @@ source ~/tflite/bin/activate
 # Clone the TensorFlow example repository with the TFLite Raspberry Pi samples.
 # Assume repo is already cloned
 ###git clone https://github.com/Talonee/Portal.git
-###cd Portal/pi/sdp/
+###cd Portal/pi/ml/
 
 # Install dependencies required by the sample
 sh setup.sh
