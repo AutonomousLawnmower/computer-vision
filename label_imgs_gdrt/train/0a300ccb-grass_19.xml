@@ -1,0 +1,14 @@
+<annotation>
+	<folder>train</folder>
+	<filename>0a300ccb-grass_19.jpg</filename>
+	<path>/home/halocaridina/Portal/computer-vision/label_imgs_gdrt/train/0a300ccb-grass_19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
